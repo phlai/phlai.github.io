@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Phey Hui</title>
+    <link>phlai.com/</link>
+    <description>Recent content on Phey Hui</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 17 Nov 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="phlai.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Innovation@Work</title>
+      <link>phlai.com/2016/11/innovationwork/</link>
+      <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>phlai.com/2016/11/innovationwork/</guid>
+      <description>&lt;p&gt;I have recently covered a topic on innovation and rapid delivery with my co-workers.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Envisioning Employee Onboarding Process</title>
+      <link>phlai.com/2016/09/envisioning-employee-onboarding-process/</link>
+      <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>phlai.com/2016/09/envisioning-employee-onboarding-process/</guid>
+      <description>&lt;p&gt;Following up on the new vision of the new staff portal, I have embarked on another journey to define how to improve the employee on-boarding process - taking away all the hardcopy papers and standardising how different departments engage their staff on the first day.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Envisioning new staff portal</title>
+      <link>phlai.com/2016/07/envisioning-new-staff-portal/</link>
+      <pubDate>Sun, 31 Jul 2016 00:00:00 +0000</pubDate>
+      
+      <guid>phlai.com/2016/07/envisioning-new-staff-portal/</guid>
+      <description>&lt;p&gt;How do you like your Staff Portal to be?&lt;/p&gt;
+
+&lt;p&gt;This is a question being brought up by my manager and I&amp;rsquo;m being tasked to do a prototype that how a new Staff Portal can be?
+&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
