@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Phey Hui</title>
-    <link>phlai.github.io/tags/</link>
+    <link>phlai.com/tags/</link>
     <description>Recent content in Tags on Phey Hui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="phlai.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="phlai.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Kanban</title>
-      <link>phlai.github.io/tags/kanban/</link>
+      <link>phlai.com/tags/kanban/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>phlai.github.io/tags/kanban/</guid>
+      <guid>phlai.com/tags/kanban/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mockup</title>
-      <link>phlai.github.io/tags/mockup/</link>
+      <link>phlai.com/tags/mockup/</link>
       <pubDate>Mon, 12 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>phlai.github.io/tags/mockup/</guid>
+      <guid>phlai.com/tags/mockup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Rapid Delivery</title>
-      <link>phlai.github.io/tags/rapid-delivery/</link>
+      <link>phlai.com/tags/rapid-delivery/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>phlai.github.io/tags/rapid-delivery/</guid>
+      <guid>phlai.com/tags/rapid-delivery/</guid>
       <description></description>
     </item>
     

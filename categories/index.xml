@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Phey Hui</title>
-    <link>phlai.github.io/categories/</link>
+    <link>phlai.com/categories/</link>
     <description>Recent content in Categories on Phey Hui</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="phlai.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="phlai.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Innovation</title>
-      <link>phlai.github.io/categories/innovation/</link>
+      <link>phlai.com/categories/innovation/</link>
       <pubDate>Thu, 17 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>phlai.github.io/categories/innovation/</guid>
+      <guid>phlai.com/categories/innovation/</guid>
       <description></description>
     </item>
     
